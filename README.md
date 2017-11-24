@@ -1,6 +1,6 @@
 ## 第一次使用git
 
 
-##abc
+##abc  我是a同时修改的
 
 #asdfghj
